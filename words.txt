@@ -1,0 +1,556 @@
+physician
+hospital
+midwife
+licensed practical nurse
+suck
+wet-nurse
+woman
+doctor
+pediatrician
+surgeon
+registered nurse
+medical
+psychiatrist
+obstetrician
+patient
+veterinarian
+clinic
+gynecologist
+nanny
+nursing theory
+matron
+nurse practitioner
+treat
+medicine
+advanced practice registered nurse
+academic degree
+nurse education
+florence nightingale
+care
+pediatric
+suckle
+harbor
+entertain
+hold
+lactate
+nursemaid
+harbour
+oncologist
+neurologist
+breastfeed
+internist
+give suck
+caregiver
+lpn
+medic
+clinician
+pediatrics
+dentist
+scope of practice
+midwifery
+nursing credentials and certifications
+therapist
+counselor
+teacher
+mother
+paramedic
+worker
+schoolteacher
+housekeeper
+waitress
+pharmacist
+anesthetist
+receptionist
+technician
+maternity
+psychotherapist
+little sisters of the poor
+sisters of mercy
+anesthesiologist
+world war ii
+nursing and midwifery council
+nursing care plan
+nursing process
+nuns
+monks
+orthopedic nursing
+christian
+islamic
+buddhist
+phoebe
+ethos
+reformation
+experience
+feel
+give
+rn
+probationer
+feed
+sanger
+nightingale
+amah
+pcp
+mammy
+cavell
+handle
+keeper
+protestant
+profession
+medico
+gp
+dermatologist
+doctoral
+medication
+md
+manson
+hodgkin
+cardiologist
+dr
+pathologist
+sanatorium
+harvey
+apc
+veterinary
+paregoric
+anticoagulant
+wetnurse
+accoucheuse
+foster-nurse
+healer
+radiotherapy
+schweitzer
+avicenna
+syringe
+curative
+therapy
+remedy
+oncology
+teaching
+inpatient
+doc
+antihistamine
+therapeutic
+biomedicine
+ross
+nostrum
+clinical
+prescriber
+outpatient
+palliative
+panacea
+anticholinergic
+nurses
+placebo
+gynecology
+pregnant
+nursing
+allergist
+child
+gastroenterologist
+antidoctor
+medician
+iatro
+nephrologist
+doctorish
+doctorial
+nondoctor
+doctorishness
+parents
+nonmedical
+leechcraft
+pseudomedical
+geriatrician
+neuropsychologist
+virologist
+license
+aesculapian
+multidoctor
+sick
+medicate
+venesect
+noninvasive
+mercurialist
+traumatology
+czechoslovakia
+medicative
+nonprescription
+firefighter
+neuropsychiatry
+clonic
+immunosuppressant
+ethnomedicine
+neurotropic
+girl
+premedical
+toddler
+medical doctor
+doctors
+caring
+children
+hospitalize
+azathioprine
+sucralfate
+antiarrhythmic
+clofibrate
+amrinone
+premedication
+quality of life
+mfm
+anticholinesterase
+vermifuge
+boy
+physostigmine
+elderly
+physicker
+health care providers
+potentiation
+resident
+isosorbide
+decongestant
+antipyretic
+probenecid
+disulfiram
+isoproterenol
+urinalysis
+counterirritant
+nosocomial
+mothers
+vermicide
+newborn
+expectorant
+parenteral
+psychologist
+antiemetic
+gemfibrozil
+iatrophysics
+tiamulin
+psychomedicine
+antidiuretic
+proctology
+pentylenetetrazol
+carminative
+counseling
+polychrest
+abortionist
+proctologist
+pharmaceutic
+acyclovir
+medicament
+allopurinol
+daughter
+wife
+antiprotozoal
+succedaneum
+nanomedicine
+antihypertensive
+abortifacient
+she
+achromia
+antitussive
+antispasmodic
+medical prescription
+sister
+antidiabetic
+psychiatric
+grandmother
+suppository
+pharmacon
+antidiarrheal
+podiatry
+hematinic
+girlfriend
+instructor
+her
+colleague
+treated
+ill
+paradigm
+patients
+hippocratic collection
+paramedics
+daughters
+trainee
+accountant
+trained
+maid
+young
+counselors
+husband
+employee
+infant
+baby
+girls
+terminally
+ambulance
+sisters
+volunteer
+volunteered
+physicians
+friend
+enlisted
+hospice
+boyfriend
+mom
+orphanage
+female
+dying
+widowed
+epistle to the romans
+united kingdom
+scrub nurse
+wet nurse
+dry nurse
+student nurse
+margaret sanger
+margaret higgins sanger
+do by
+practical nurse
+lady with the lamp
+primary care provider
+care for
+edith louisa cavell
+practice of medicine
+health professional
+health care provider
+edith cavell
+head nurse
+give care
+visiting nurse
+trained nurse
+graduate nurse
+nurse-patient relation
+adult female
+in hospital
+resuscitate someone
+crimean war
+quebec
+notes on nursing
+ally health
+florence nightingale faculty of nursing and midwifery
+primary care
+surgery
+anesthetists
+medical topic
+sisters of st. mary
+franciscan alliance, inc.
+general practitioner
+8-year
+sisters of charity
+worldview
+first boer war
+lawyer
+egyptian campaign
+emergency physician
+mahdist war
+4-year
+9-year
+medical practitioner
+veterinary surgeon
+world war i
+doctor patient
+medical professional
+battle disease
+family doctor
+medical record
+nurse home
+united states army
+group practice
+united states navy
+medicine man
+iron cross
+internal medicine
+over counter drug
+cold medicine
+drug cocktail
+drug therapy
+death
+telenursing
+lipid lower medicine
+calcium blocker
+retail pharmacy
+patent medicine
+disease
+professional organizations
+operate on
+complementary medicine
+ed d
+histamine blocker
+distress
+in medicine cabinet
+alternative medicine
+nursing journal
+prescription drug
+nux vomica
+x ray machine
+tongue depressor
+medical science
+license fee
+emergency procedure
+anti inflammatory
+gender marking in job titles
+emergency medicine
+nuclear medicine
+medical school
+d p h
+preventive medicine
+examination table
+forensic medicine
+nursing ethics
+space medicine
+cure illness
+d f
+holistic health
+australia
+bursary
+francophone africa
+preceptor
+houseman
+practitioner
+locum
+radiologist
+carer
+obstetrics
+policewoman
+adon
+stewardess
+hairdresser
+physiotherapist
+corpsman
+chaplain
+bedside
+homemaker
+librarian
+c�te d'ivoire
+democratic republic of congo
+nursing research
+nursing assessment
+nursing diagnosis
+education
+district nurse
+yukon
+nursing assistant
+cardiac nursing
+health visitor
+palliative care
+perioperative nursing
+bottlefeed
+phlebotomist
+radiographer
+dietician
+beautician
+cosmetologist
+hygienist
+aromatherapist
+dietitian
+reflexologist
+manicurist
+vaccinator
+haematologist
+bedpan
+cosmetician
+esthetician
+caseworker
+electrologist
+chiropodist
+paraprofessional
+cuddler
+paediatrician
+obstetrical nursing
+oncology nursing
+cannulation
+nursing informatics
+venipuncture
+home care
+school nursing
+pharmaceutical companies
+occupational health nursing
+nurse-led clinics
+canadian nurses association
+long-term care
+cruise ships
+armed forces
+health advocacy
+patient advocacy
+health advocate
+anatomy
+physiology
+legal nurse consultant
+microbiology
+research institutions
+nutrition
+occupational stress
+chemistry
+shift work
+sleep disorders
+class
+major depressive disorder
+germans
+compassion fatigue
+demand
+psychiatry
+minnesota
+italians
+czechs
+learning
+occupational burnout
+emotional exhaustion
+national institute for occupational safety and health
+stress management
+sisters of charity of australia
+st vincent's hospital, sydney
+self-employed
+dental hygienist
+candy striper
+maternity ward
+physical therapist
+radiologic technologist
+occupational therapist
+shorthand typist
+flight attendant
+bedside manner
+bachelor of science in nursing
+intravenous therapy
+geriatrics
+nclex-rn
+urinary catheterization
+advanced life support
+american nurses association
+british national formulary
+baccalaureate degree
+critical care nursing
+gerontological nursing
+public health nursing
+associate of science in nursing
+high school
+doctorate in nursing
+japanese nursing association
+board of nursing
+unlicensed assistive personnel
+associate degree in nursing
+community college
+staff nurse
+u.s. navy
+alexandra feodorovna
+paraguayan war
+ana n�ri
+georgina pope
+maria valtorta
+ann agnes bernatitus
+santo tomas internment camp
+bachelor's degree
+australian aborigines
+american nurses credentialing center
+nurse licensure
+emergency nursing
+family practice
+clinical nurse specialist
+nurse anesthetist
+nurse midwife
+doctor of nursing practice
+clinical nurse leader
+commission on collegiate nursing education
+national league for nursing
+hospital ship
+united states army nurse corps
+nursing shortage
+
